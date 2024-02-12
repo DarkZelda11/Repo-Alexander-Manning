@@ -6,3 +6,6 @@ This tutorial is the start of learing GIT for version control.
 
 This Repo is managed by **Alexander Manning**.
 
+## Copyright
+
+**will add copyright latter**
